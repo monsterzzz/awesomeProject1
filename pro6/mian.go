@@ -27,7 +27,7 @@ func main() {
 
 	// 位运算
 	a = 60
-	b = 13
+	b = 100
 
 	fmt.Println(a&b, a|b, a^b, a<<1, b<<2)
 
